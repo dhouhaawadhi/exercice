@@ -15,3 +15,6 @@ colorInput.addEventListener('input',()=>{
 });
 
 
+function changetaille(){
+  taille.
+
